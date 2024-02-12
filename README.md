@@ -1,5 +1,5 @@
 # Lógica de Programação em C
-Códigos simples desenvolvidos em sala de aula para aprender lógica de prpgramação.
+Códigos simples desenvolvidos em sala de aula para aprender lógica de programação.
 
 ## Tipos de Variáveis
 ### 1. Inteiro
